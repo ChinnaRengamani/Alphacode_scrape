@@ -25,12 +25,6 @@ The scraper fetches wallpapers from specific categories or searches on Alpha Cod
 - Ensure usage complies with applicable laws and regulations.
 - Use responsibly and avoid excessive or abusive scraping that might impact the website.
 
-## Contribution
-This project is not actively seeking contributions. However, if you find any issues or have suggestions, feel free to open an issue or fork the repository.
-
-## License
-[Choose a license according to your preferences and requirements. For example, MIT License, Apache License 2.0, or Unlicense.]
-
 ## Acknowledgements
 Acknowledgements to Alpha Coders for providing the wallpapers and to the developers of libraries or tools used in this project.
 
